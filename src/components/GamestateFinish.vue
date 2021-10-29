@@ -15,29 +15,6 @@
       height="70"
     >
       <title id="face">Face Icon</title>
-      <defs>
-        <style>
-          .cls-1 {
-            fill: #fbb040;
-            stroke: #231f20;
-          }
-
-          .cls-1,
-          .cls-3 {
-            stroke-miterlimit: 10;
-            stroke-width: 3px;
-          }
-
-          .cls-2 {
-            fill: #231f20;
-          }
-
-          .cls-3 {
-            fill: none;
-            stroke: #be1e2d;
-          }
-        </style>
-      </defs>
       <circle class="cls-1" cx="65.5" cy="65.5" r="64" />
       <circle class="cls-2" cx="95" cy="65.8" r="7.5" />
       <circle class="cls-2" cx="36" cy="65.8" r="7.5" />
